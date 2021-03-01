@@ -7,7 +7,7 @@
     "start": "http-server . -p 8000"
   },
   "dependencies": {
-    "three": "^0.106.2",
+    "three": "^0.125.0",
     "webpack": "^4.35.2"
   },
   "repository": "https://github.com/haohaodehao/threejs_tutorial.git",
